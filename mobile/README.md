@@ -1,4 +1,4 @@
-# weeb_dev_my_movie_list
+# My Movie List
 
 A mobile app to keep track of currently watching movies.
 
