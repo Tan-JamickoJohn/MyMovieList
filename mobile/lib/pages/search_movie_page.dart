@@ -8,7 +8,7 @@ import 'package:weeb_dev_my_movie_list/widgets/movie_cards.dart';
 import 'package:weeb_dev_my_movie_list/widgets/movie_search_bar.dart';
 
 class SearchMoviePage extends StatefulWidget {
-  SearchMoviePage({Key key}) : super(key: key);
+  SearchMoviePage();
 
   @override
   _SearchMoviePageState createState() => _SearchMoviePageState();
